@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669246040223",
+    "project_id": "blog-app-896fe",
+    "storage_bucket": "blog-app-896fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669246040223:android:5b117bde8651fc2eef5aaa",
+        "android_client_info": {
+          "package_name": "com.sohaib.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669246040223-9n2054a9d3eu76hf5g8hqv6uqdkig42l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtWQ-YlGOn6YobIxEOlQBAOwZna_RUaOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669246040223-9n2054a9d3eu76hf5g8hqv6uqdkig42l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
